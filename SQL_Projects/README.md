@@ -25,4 +25,4 @@ Dataset:
 Synthetic or anonymised sales/customer dataset
 
 Outcome:  
-A set of SQL scripts that demonstrate practical data analysis skills used in real business environm
+A set of SQL scripts that demonstrate practical data analysis skills used in real business environments.
