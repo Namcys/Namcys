@@ -1,16 +1,30 @@
-## Hi there 👋
+Ms. Namasiku Samunzala — Finance & Data Portfolio
 
-<!--
-**Namcys/Namcys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Finance & Data Analytics portfolio. I’m a Finance Professional with 10+ years of experience and an MSc Data Science Candidate, building strong capability in Power BI, Tableau, Excel (Advanced), SQL, and Python.
+This portfolio showcases selected projects, dashboards, models, and scripts that reflect my journey into data-driven finance, FP&A, and business intelligence.
 
-Here are some ideas to get you started:
+What you’ll find here:
+Power BI Dashboards — KPI reporting, financial analysis, budget vs actuals
+Tableau Visualizations — interactive charts and business insights
+Excel Financial Models — forecasting, cash flow, management reporting
+SQL Projects — data cleaning, joins, aggregations, analysis queries
+Python Notebooks — data exploration, automation, and analytics
+MSc Data Science Coursework — selected academic projects and applied analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Skills:
+Power BI
+Tableau
+Excel (Advanced)
+SQL
+Python
+Sage Accounting (Certified)
+Agile Project Management
+
+About Me
+I’m passionate about combining finance expertise with data analytics to support better decision-making, forecasting, and business performance. My goal is to grow into roles such as Financial Analyst, FP&A Analyst, Finance Data Analyst, or Business Intelligence Analyst.
+
+Connect with Me
+LinkedIn: linkedin.com/in/namasiku-samunzala
+Email: namasiku.samunzala@gmail.com
+
+Thank you for visiting my portfolio.
